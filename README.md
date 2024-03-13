@@ -8,6 +8,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Data Science and AI/ML.
 
 - 💬 Ask me about Tech, Philosophy, Politics and the Environment.
-- 📫 How to reach me: LinkedIn mentioned in my bio!
+- 📫 How to reach me: Email - swethame04@gmail.com or LinkedIn - [/in/swethame04/](https://www.linkedin.com/in/swethame04/)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: My love language, communication language and sense of humour is all pop-culture/movie/meme references.
