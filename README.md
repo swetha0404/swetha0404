@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 - 🤔 I’m looking for help with ... 
 - 🔭 I’m currently working on ... -->
-- 🌱 I’ve graduated in Master's in Computer Science from the University of Texas at Dallas.
+- 🌱 I’m a Master's in Computer Science Graduate from the University of Texas at Dallas.
 - 👯 I’m looking to collaborate on Data Science and AI/ML projects.
 
 🚀 What I'm building & exploring
